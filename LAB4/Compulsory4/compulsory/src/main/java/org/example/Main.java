@@ -17,7 +17,7 @@ public class Main {
         listOfPersons.add(new Person("Pizza", 60, true, false));
         listOfPersons.add(new Person("Saorma", 70, true, true));
 
-        List<Person> drivers = new LinkedList<>();
+        List<Person> drivers =  new LinkedList<>();
         drivers = listOfPersons.stream().filter(e -> e.getiDrive()).sorted(Comparator.comparingInt(Person::getAge)).toList();
 
         System.out.println("Acestia sunt soferi: ");
@@ -27,7 +27,7 @@ public class Main {
 
 
         TreeSet<Person> passangers = listOfPersons.stream()
-                .filter(e -> !e.getiDrive()) // Filter persons who can drive
+                .filter(e -> !e.getiDrive())
                 .collect(Collectors.toCollection(() -> new TreeSet<>(Comparator.comparing(Person::getName))));
 
         System.out.println("\nAcestia sunt pasageri: ");

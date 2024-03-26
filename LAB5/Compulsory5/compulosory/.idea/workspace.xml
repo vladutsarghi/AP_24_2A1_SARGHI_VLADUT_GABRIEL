@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e80a886d-3391-4608-b5ac-5bcb9ce61fbc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/src/main/java/org/example/GraphAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/src/main/java/org/example/GreedyCarpool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/src/main/java/org/example/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/src/main/java/org/example/MapValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Bonus4/bonus4/src/main/java/org/example/StabilityNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/Homework4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../LAB4/Homework4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LAB3/Compulsory3/compulosory3/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LAB3/Compulsory3/compulosory3/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LAB4/Compulsory4/compulsory/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LAB4/Compulsory4/compulsory/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LAB4/Compulsory4/compulsory/src/main/java/org/example/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LAB4/Compulsory4/compulsory/src/main/java/org/example/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2eDsb31ouPmhOIuHhjymH39yKP9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/sargh/Desktop/AP_24_2A1_SARGHI_VLADUT_GABRIEL/LAB5/Compulsory5/compulosory/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e80a886d-3391-4608-b5ac-5bcb9ce61fbc" name="Changes" comment="" />
+      <created>1711450553878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711450553878</updated>
+      <workItem from="1711450554991" duration="1601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
