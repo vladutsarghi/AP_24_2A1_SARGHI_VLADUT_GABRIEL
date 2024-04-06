@@ -1,0 +1,21 @@
+{
+  "name" : "MasterDir",
+  "directories" : [ {
+    "name" : "alt foldeer",
+    "directories" : [ {
+      "name" : "inca 1",
+      "directories" : [ ],
+      "files" : [ "asd.txt" ]
+    } ],
+    "files" : [ ]
+  }, {
+    "name" : "Virginu",
+    "directories" : [ {
+      "name" : "das",
+      "directories" : [ ],
+      "files" : [ ]
+    } ],
+    "files" : [ "mara.txt" ]
+  } ],
+  "files" : [ "asd.txt" ]
+}
